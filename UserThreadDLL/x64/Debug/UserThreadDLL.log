@@ -1,0 +1,4 @@
+﻿  User.cpp
+D:\OS\PrintSpooler-SIM\UserThreadDLL\User.cpp(15,16): warning C4101: “end”: 未引用的局部变量
+D:\OS\PrintSpooler-SIM\UserThreadDLL\User.cpp(15,9): warning C4101: “start”: 未引用的局部变量
+  UserThreadDLL.vcxproj -> D:\OS\PrintSpooler-SIM\x64\Debug\UserThreadDLL.dll

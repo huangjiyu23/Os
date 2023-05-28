@@ -1,0 +1,5 @@
+﻿  test.cpp
+D:\OS\PrintSpooler-SIM\Demo\test.cpp(17,1): warning C4326: “main”的返回类型应为“int”而非“void”
+D:\OS\PrintSpooler-SIM\Demo\test.cpp(23,7): warning C4101: “fileName”: 未引用的局部变量
+D:\OS\PrintSpooler-SIM\Demo\test.cpp(22,7): warning C4101: “tempName”: 未引用的局部变量
+  Demo.vcxproj -> D:\OS\PrintSpooler-SIM\x64\Debug\Demo.exe
